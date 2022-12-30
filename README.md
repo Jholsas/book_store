@@ -12,8 +12,11 @@ https://book-store-jholsas.vercel.app/
 * SwiperJS
 
 ## Screenshots
+<h1>Screenshot Desktop Version</h1>
 ![Screenshot Desktop Version](https://i.imgur.com/IaAC9oq.png)
 
+<h1>Screenshot Tablet Version</h1>
 ![Screenshot Tablet Version](https://imgur.com/xMGPKTH.png)
 
+<h1>Screenshot Smartphone Version</h1>
 ![Screenshot Smartphone Version](https://imgur.com/f7D3pRj.png)
